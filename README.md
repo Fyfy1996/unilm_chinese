@@ -17,3 +17,4 @@ Examples:
     
 ## Environments and training
 Trained on a single A100(40G) with epoch 3 on about 700k samples, costs about 7 hours.
+cuda11.2+pytorch1.7
